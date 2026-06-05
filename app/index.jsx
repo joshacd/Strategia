@@ -1,3 +1,7 @@
+// Strategia: app/index.jsx
+// Created By: Josha Chapman-Dodson
+// Date Created: 6/5/26
+
 import { Text, View } from "react-native";
 
 export default function Index() {
